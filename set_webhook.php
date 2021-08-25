@@ -1,6 +1,6 @@
 <?php
 	$auth_token = '4ddca574dde7df7b-45aa34b182943e0a-b6c20acfaee0b616';
-	$webhook = 'https://github.com/ruto4ever/vcb/blob/gh-pages';
+	$webhook = 'https://ruto4ever.github.io/vcb/';
 	
 	$jsonData = 
 	'{
